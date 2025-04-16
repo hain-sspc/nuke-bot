@@ -1,4 +1,4 @@
-![see](https://i.imgur.com/QZVOFJE.jpg)
+
 
 ## Requirements
 
@@ -39,6 +39,4 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 💬 **Commands!** 
 
 - Do all [!nuke]
-- DM all [!dm <messages>]
-- Ban All! [!ban, !b]
-- Kick All! [!kick, !k]
+
